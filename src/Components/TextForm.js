@@ -49,7 +49,7 @@ export default function TextForm(props) {
     <>
       <div className="container" style={{ color: props.mode === "light" ? "black" : "white" }}>
         <h1>{props.heading}</h1>
-        <p className="color-grey ">Text Util is a word counter and character counting utility which can be used to manipulate your text
+        <p className="color-grey ">Countify is a word counter and character counting utility which can be used to manipulate your text
          in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to 
           lowercase and lowercase to uppercase.<br />
         </p>
